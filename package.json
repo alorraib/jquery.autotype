@@ -1,0 +1,22 @@
+{
+  "name": "autotype",
+  "version": "0.5.1",
+  "description": "jQuery.autotype\r ===============\r Simple, accurate, typing simulation plugin for [jQuery][3].  \r [http://github.com/mmonteleone/jquery.autotype][0]",
+  "main": "jquery.autotype.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alorraib/jquery.autotype.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alorraib/jquery.autotype/issues"
+  },
+  "homepage": "https://github.com/alorraib/jquery.autotype#readme"
+}
